@@ -49,4 +49,4 @@ Me:
 > "Bro just tell me how to push the code."
 
 ## Side fact: 
-- Ignore how poorly my Read.me are
+- Ignore how poorly i design my Read.me are
