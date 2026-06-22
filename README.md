@@ -1,20 +1,32 @@
 ## Hi there 👋
 
-# Hi, I'm Thịnh👋
+# Hi, I'm Duong Thinh 👋
 
 Currently learning C/C++ and GitHub.
 
-## About me
+## About Me
 - Learning C and C++
-- Can read English documentation without translation
-- Still figuring out Git and GitHub 😭
-- Sometimes coding, sometimes questioning my life choices why i chose to learn IT
+- Reading English documentation
+- Exploring Git and GitHub
+- Building small projects while learning
 
-## What I'm working on
-- Small C/C++ practice projects
-- Learning Git workflow
-- Trying not to break my code
-- And pray that my codes actually work
+## Current Goals
+- Improve programming skills
+- Understand Git workflow
+- Create more personal projects
+
+## Tech Stack
+![C](https://img.shields.io/badge/C-Learning-blue)
+![C++](https://img.shields.io/badge/C++-Learning-blue)
+![Git](https://img.shields.io/badge/Git-Learning-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Learning-green)
+![GitHub](https://img.shields.io/badge/English-Best-green)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DuongThinhDev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DuongThinhDev&layout=compact)
 
 ## Skills
 - C
