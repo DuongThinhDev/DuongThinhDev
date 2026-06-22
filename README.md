@@ -15,12 +15,14 @@ Currently learning C/C++ and GitHub.
 - Understand Git workflow
 - Create more personal projects
 
-## Tech Stack
-![C](https://img.shields.io/badge/C-Learning-blue)
-![C++](https://img.shields.io/badge/C++-Learning-blue)
-![Git](https://img.shields.io/badge/Git-Learning-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Learning-green)
-![GitHub](https://img.shields.io/badge/English-Best-green)
+| Skill | Level |
+|---------|---------|
+| C | 🟨 Learning |
+| C++ | 🟨 Learning |
+| Git | 🟨 Learning |
+| GitHub | 🟨 Learning |
+| Problem Solving | 🟨 Improving |
+| Reading English Docs | 🟩 Comfortable |
 
 ## GitHub Stats
 
