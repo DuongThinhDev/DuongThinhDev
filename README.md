@@ -45,3 +45,5 @@ Most programming tutorials:
 
 Me:
 > "Bro just tell me how to push the code."
+
+##Side fact: Ignore how poorly my Read.me are
